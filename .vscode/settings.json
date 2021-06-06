@@ -1,0 +1,11 @@
+// {
+//     "emmet.excludeLanguages": [
+//     "#7cc36e"
+//         "markdown"
+//     ]
+// }
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
